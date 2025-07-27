@@ -130,6 +130,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.dsenv
 env/
 venv/
 ENV/
@@ -197,3 +198,5 @@ cython_debug/
 ml/
 others/
 soln/
+my-csv-file*.csv
+*.md

@@ -200,3 +200,5 @@ others/
 soln/
 my-csv-file*.csv
 *.md
+sklearn/
+work/
